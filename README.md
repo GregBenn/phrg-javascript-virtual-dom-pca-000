@@ -34,3 +34,4 @@ Even though virtual DOM performs very well and used in several high-profile libr
 - [React (Virtual) DOM Terminology](https://facebook.github.io/react/docs/glossary.html)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/javascript-virtual-dom'>Virtual DOM</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG JavaScript Virtual DOM</p>
